@@ -12,5 +12,12 @@ Belajar kelas Memulai Pemprograman dengan JavaScript. (Progres 56%)
   - *Belajar controlflow dalam JavaScript, seperti perulangan dan percabangan.*
   - *Belajar tipe data dalam JavaScript, seperti string, number, boolean, undefined dan null.* 
 
+**20 Juni 2021**  
+Belajar kelas Memulai Pemprograman dengan JavaScript. (Progres 100%)
+  - *Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan suatu program.*
+  - *Belajar konsep pemprograman yang sering di gunakan dalam bahasa JavaScript seperti ES6, Callback, Asyncronous, Synchronous dan JavaScript DOM.*
+  - *Berlatih dengan membuat program seperti kalkulator dan website company.*
+  - *Mengerjakan ujian akhir untuk menilai kemahiran diri.*
+
 
 
